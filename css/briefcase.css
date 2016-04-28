@@ -1,0 +1,135 @@
+body{
+	height: 100%;
+	width: 100%;
+	margin: 0px;
+	background: #3e4349;
+}
+.panel-info > .panel-heading{
+	text-align: center;
+	color: #3e4349;
+	background: #cbc9cb;
+	border-color: #cbc9cb;
+}
+.panel{
+	border-radius:0px;
+	background: #cbc9cb;
+}
+.panel-title{
+	font-size: 35px;
+	font-weight: normal;
+}
+.main-content{
+	width: 80%;
+	margin: auto;
+	margin-top: 10px;
+}
+.btn-create{
+  color: #fff;
+  background: #535A62;
+  border-color: #6A7076;
+  border-radius: 7px;
+  font-size: 18px;
+  height: 50px;
+  width: 180px;
+}
+.btn-create:hover {
+  color: #fff;
+  background: #535A62;
+  border-color: #6A7076;
+}
+.btn-forget{
+  color: #fff;
+  background: #535A62;
+  border-color: #6A7076;
+  border-radius: 7px;
+  font-size: 18px;
+  height: 50px;
+  width: 180px;
+  margin-top: 10px;
+}
+.btn-forget:hover {
+  color: #fff;
+  background: #535A62;
+  border-color: #6A7076;
+}
+.main-content-center{
+	margin: auto;
+    text-align: center;
+    width: 80%;
+    margin-top: 10px;
+}
+.main-content-small{
+	margin: auto;
+    width: 50%;
+    margin-top: 10px;
+}
+.login-link{
+	text-decoration: none;
+	font-size: 18px;
+	color: #535A62;
+}
+.login-link:hover{
+	text-decoration: none;
+	color: #535A62;
+}
+.login-content{
+	height: 100%;
+	float: left;
+}
+.form-control{
+	border:1px solid #535a62;
+}
+#loginform input{
+	border-radius: 7px;
+}
+.modal-content{
+	border-radius: 0px;
+}
+.modal-dialog{
+	width: 60%;
+}
+.btn-save{
+  color: #fff;
+  border-radius: 0px;
+  background-color: #337ab7;
+  border-color: #337ab7;
+}
+.btn-save:hover{
+  color: #fff;
+  background-color: #337ab7;
+  border-color: #337ab7;
+}
+.btn-normal{
+  color: #333;
+  background-color: #f5f5f5;
+  border-radius: 0px;
+  float: left;
+  border-color: #ddd;
+}
+.btn-normal:hover{
+  color: #333;
+  background-color: #f5f5f5;
+  border-color: #ddd;
+}
+.box-con{
+	padding: 30px;
+}
+.box-con1{
+	border: 1px solid #3e4349;
+	text-align: center;
+	cursor: pointer;
+	padding: 20px;
+	height: 200px;
+}
+.font-align{
+	margin-top: 60px;
+}
+.footer
+{
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+label{
+	font-weight: normal;
+}
